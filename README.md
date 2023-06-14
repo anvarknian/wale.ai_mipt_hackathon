@@ -6,7 +6,7 @@ Database file: wale.sqlite.
 
 SQL DDL: init_db.sql.
 
-<iframe width="560" height="315" src='https://dbdiagram.io/embed/6489fdb8722eb77494f83f6d'> </iframe>
+https://dbdiagram.io/d/6489fdb8722eb77494f83f6d
 
 ## Связи между таблицами
 
