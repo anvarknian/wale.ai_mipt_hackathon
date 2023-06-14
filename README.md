@@ -1,6 +1,9 @@
-# wale.ai_mipt_hackathon
-Repo for MIPT Hackathon 2023
+# Repo for MIPT Hackathon 2023
+
 ![Alt text](wale-diagram.png)
+
+Database file: wale.sqlite
+SQL DDL: init_db.sql
 
 ## Связи между таблицами
 
